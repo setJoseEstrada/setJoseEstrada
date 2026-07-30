@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:14335E&height=180&section=header&text=Jose%20Estrada&fontColor=C9A227&fontSize=42&fontAlignY=36&desc=Backend%20Engineer%20-%20Banca%20%26%20Fintech&descAlignY=58&descSize=18&descColor=8FA3C8" width="100%" alt="Jose Estrada" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A1F44,100:14335E&height=180&section=header&text=Jose%20Estrada&fontColor=C9A227&fontSize=42&fontAlignY=36&desc=Backend%20Engineer%20-%20Banca%20y%20Fintech&descAlignY=58&descSize=18&descColor=8FA3C8" width="100%" alt="Jose Estrada" />
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&pause=1600&color=C9A227&center=true&vCenter=true&width=560&lines=Backend+fuerte+en+.NET+%2B+Azure;Arquitecturas+hexagonales+full-stack;Sistemas+transaccionales+y+pagos" alt="typing banner" />
 
