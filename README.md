@@ -16,29 +16,19 @@
 
 ### Núcleo — Backend &amp; Cloud
 
-<img src="https://skillicons.dev/icons?i=dotnet,csharp,azure,nestjs,nodejs&theme=dark" alt="stack backend y cloud" />
+<img src="assets/nucleo.svg" width="100%" alt=".NET, C#, Azure, NestJS, Node.js" />
 
 ### Complementario — Frontend &amp; Datos
 
-<img src="https://skillicons.dev/icons?i=angular,ts,postgres,docker,nginx,git&theme=dark" alt="stack frontend y datos" />
+<img src="assets/complementario.svg" width="100%" alt="Angular, TypeScript, PostgreSQL, Docker, Nginx, Git" />
 
 ### DevOps &amp; Plataforma
 
-<img src="https://skillicons.dev/icons?i=kubernetes,githubactions&theme=dark" alt="kubernetes y github actions" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Kubernetes%20(AKS)-0A1F44?style=for-the-badge&logo=kubernetes&logoColor=C9A227" alt="Kubernetes AKS" />
-<img src="https://img.shields.io/badge/Podman-0A1F44?style=for-the-badge&logo=podman&logoColor=C9A227" alt="Podman" />
-<img src="https://img.shields.io/badge/Azure%20DevOps-0A1F44?style=for-the-badge&logo=azuredevops&logoColor=C9A227" alt="Azure DevOps" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-0A1F44?style=for-the-badge&logo=githubactions&logoColor=C9A227" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/CI%2FCD-0A1F44?style=for-the-badge&logo=githubactions&logoColor=C9A227" alt="CI/CD" />
+<img src="assets/devops.svg" width="100%" alt="Kubernetes (AKS), Podman, Azure DevOps, GitHub Actions, CI/CD" />
 
 ### IA aplicada al desarrollo
 
-<img src="https://img.shields.io/badge/Claude%20Code-0A1F44?style=for-the-badge&logo=claude&logoColor=C9A227" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Agentes%20de%20IA-0A1F44?style=for-the-badge&labelColor=0A1F44" alt="Agentes de IA" />
-<img src="https://img.shields.io/badge/MCP-0A1F44?style=for-the-badge&logo=modelcontextprotocol&logoColor=C9A227" alt="Model Context Protocol" />
+<img src="assets/ia.svg" width="100%" alt="Claude Code, Agentes de IA, Model Context Protocol" />
 
 </div>
 
