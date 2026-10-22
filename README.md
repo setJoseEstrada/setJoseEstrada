@@ -22,6 +22,24 @@
 
 <img src="https://skillicons.dev/icons?i=angular,ts,postgres,docker,nginx,git&theme=dark" alt="stack frontend y datos" />
 
+### DevOps &amp; Plataforma
+
+<img src="https://skillicons.dev/icons?i=kubernetes,githubactions&theme=dark" alt="kubernetes y github actions" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Kubernetes%20(AKS)-0A1F44?style=for-the-badge&logo=kubernetes&logoColor=C9A227" alt="Kubernetes AKS" />
+<img src="https://img.shields.io/badge/Podman-0A1F44?style=for-the-badge&logo=podman&logoColor=C9A227" alt="Podman" />
+<img src="https://img.shields.io/badge/Azure%20DevOps-0A1F44?style=for-the-badge&logo=azuredevops&logoColor=C9A227" alt="Azure DevOps" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-0A1F44?style=for-the-badge&logo=githubactions&logoColor=C9A227" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/CI%2FCD-0A1F44?style=for-the-badge&logo=githubactions&logoColor=C9A227" alt="CI/CD" />
+
+### IA aplicada al desarrollo
+
+<img src="https://img.shields.io/badge/Claude%20Code-0A1F44?style=for-the-badge&logo=claude&logoColor=C9A227" alt="Claude Code" />
+<img src="https://img.shields.io/badge/Agentes%20de%20IA-0A1F44?style=for-the-badge&labelColor=0A1F44" alt="Agentes de IA" />
+<img src="https://img.shields.io/badge/MCP-0A1F44?style=for-the-badge&logo=modelcontextprotocol&logoColor=C9A227" alt="Model Context Protocol" />
+
 </div>
 
 <br/>
@@ -29,6 +47,8 @@
 ## Actualmente
 
 > Trabajando en temas bancarios — sistemas transaccionales, integraciones de pago y arquitecturas seguras y escalables en la nube.
+>
+> Despliegues en Kubernetes (AKS) con pipelines CI/CD en Azure DevOps y GitHub Actions, y desarrollo asistido con Claude Code: agentes, subagentes y servidores MCP (PostgreSQL, Azure DevOps, AKS, GitHub).
 
 ## Proyecto destacado
 
